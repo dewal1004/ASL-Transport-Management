@@ -1,0 +1,25 @@
+{
+  "id": "4262c354-fa0b-4e65-92a1-89286ae7082a",
+  "name": "ASLProject Prime",
+  "publisher": "SSNL",
+  "version": "18.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 79999
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
