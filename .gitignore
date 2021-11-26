@@ -1,4 +1,5 @@
 .vscode/.alcache/*.*
+.vscode/*.*
 .alpackages/*.*
 .snapshots/*.*
 cache_*.*
